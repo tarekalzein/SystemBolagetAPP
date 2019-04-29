@@ -1,5 +1,0 @@
-
-this is a txt doc!
-this is my second edit
-this line is the 3rd edit using nano on git bash
-totally new update 22/April
