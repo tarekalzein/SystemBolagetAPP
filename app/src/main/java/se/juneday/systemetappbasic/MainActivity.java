@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
   private static final String TYPE = "product_group";
   private static final String NAME = "name";
 
-
+//Hallå där, här testar jag lägga in en kommentar från Android Studio!
   private void createFakedProducts() {
     products = new ArrayList<>();
     Product p1 = new Product.Builder()
