@@ -232,7 +232,7 @@ public class MainActivity extends AppCompatActivity {
         ; // is ok since this is debug
       }
     }
-    return productList;
+    return productList;     //return list of products
   }
 
   @Override
