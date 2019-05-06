@@ -248,3 +248,4 @@ public class MainActivity extends AppCompatActivity {
     setupListView();
   }
 }
+// testar bara om det syns Nomin
