@@ -37,6 +37,8 @@ public class MainActivity extends AppCompatActivity {
   private ListView listView;
   private ArrayAdapter<Product> adapter;
 
+  // Tesing testing, add from mariekes_bransch
+
   private static final String MIN_ALCO = "min_alcohol";
   private static final String MAX_ALCO = "max_alcohol";
   private static final String MIN_PRICE = "min_price";
