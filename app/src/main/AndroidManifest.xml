@@ -15,7 +15,7 @@
         android:usesCleartextTraffic="true">
         <activity android:name=".Under20"></activity>
         <activity android:name=".MainActivity"></activity>
-        <activity android:name=".ProductActivity" />
+        <activity android:name=".ProductActivity"></activity>
         <activity android:name=".WelcomeActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
